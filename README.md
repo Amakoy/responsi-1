@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [Imam Arif Hadi Pramono]  
+NIU : [460546]  
+Sesi : [Siang]  
+Secret String : [dee6498675e9bd10e20a87d0d29946ba2f7ac997e769359c5974eb5cd1756ae820230616063700]
 
 ## Checklist Responsi
 
